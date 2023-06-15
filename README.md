@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lisabeeaan
 - 👀 I’m interested in coding in Python and Java language
-- 🌱 I’m currently learning Python, Java an d HTML.
+- 🌱 I’m currently learning Python, Java and HTML.
 - 📫 How to reach me on IG: @lisabeeaan
 
 <!---
